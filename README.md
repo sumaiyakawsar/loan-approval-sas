@@ -3,7 +3,7 @@
 
  <h1 align="center"> DAP Assignment 
 
-![Created Badge](https://badges.pufler.dev/created/sumaiyakawsar/loan-approval-sas?&style=plastic&color=black&labelColor=1AEE0B) ![Updated Badge](https://badges.pufler.dev/updated/sumaiyakawsar/loan-approval-sas?&style=plastic&color=black&labelColor=0004FF) ![Visits Badge](https://badges.pufler.dev/visits/sumaiyakawsar/loan-approval-sas?&style=plastic&color=black&labelColor=BF3F41) ![Reason Badge](https://img.shields.io/badge/Masters_Assignment-Individual-10b981?style=plastic&labelColor=000000) ![Subject Badge](https://img.shields.io/badge/Subject-Data_Analytic_Programming-blue?style=plastic&labelColor=000000) ![wakatime](https://wakatime.com/badge/github/sumaiyakawsar/Spell-Checker.svg)
+![Created Badge](https://badges.pufler.dev/created/sumaiyakawsar/loan-approval-sas?&style=plastic&color=black&labelColor=1AEE0B) ![Updated Badge](https://badges.pufler.dev/updated/sumaiyakawsar/loan-approval-sas?&style=plastic&color=black&labelColor=0004FF) ![Visits Badge](https://badges.pufler.dev/visits/sumaiyakawsar/loan-approval-sas?&style=plastic&color=black&labelColor=BF3F41) ![Reason Badge](https://img.shields.io/badge/Masters_Assignment-Individual-10b981?style=plastic&labelColor=000000) ![Subject Badge](https://img.shields.io/badge/Subject-Data_Analytic_Programming-blue?style=plastic&labelColor=000000) ![wakatime](https://wakatime.com/badge/github/sumaiyakawsar/loan-approval-sas.svg)
 </h1>
 
 #### Tools/Technologies Used
